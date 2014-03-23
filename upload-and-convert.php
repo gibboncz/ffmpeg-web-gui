@@ -5,7 +5,7 @@
     Author  : Greg Colley
     Created : 03/12/2011
     Update  : 04/12/2011
-    Version : 0.1 beta
+    Version : 0.2 beta
 
     This is a upload an convert php script for ffmpeg. Allowing you to convert video files to html5 ready video via ffmpeg.
 	
